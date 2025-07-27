@@ -1,0 +1,9 @@
+{
+  "version": "0.2",
+  "ignorePaths": ["node_modules", "package.json", "yarn.lock"],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [],
+  "ignoreWords": ["urql", "codegen", "Codegen", "evenodd"],
+  "import": []
+}
